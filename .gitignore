@@ -1,0 +1,9 @@
+
+$RECYCLE.BIN/
+
+*.cab
+*.msl
+*.msix
+*.msm
+*.msp
+*.lnk
