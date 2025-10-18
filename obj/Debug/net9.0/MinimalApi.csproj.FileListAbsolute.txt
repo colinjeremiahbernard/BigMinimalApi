@@ -1,11 +1,10 @@
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.csproj.AssemblyReference.cache
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\rpswa.dswa.cache.json
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.AssemblyInfoInputs.cache
-C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.AssemblyInfo.cs
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.csproj.CoreCompileInputs.cache
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.sourcelink.json
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\appsettings.json
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\MinimalApi.staticwebassets.endpoints.json
@@ -129,3 +128,11 @@ C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\refint\Minim
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.pdb
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\MinimalApi.genruntimeconfig.cache
 C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\obj\Debug\net9.0\ref\MinimalApi.dll
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jerem\Documents\.net\ScarceApi\MinimalApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
