@@ -23,7 +23,6 @@ using System.Security.Claims;
 using Microsoft.OpenApi.Models;
 using System.Data;
 using System.Linq;
-
 #region Builders
 var builder = WebApplication.CreateBuilder(args);
 
@@ -100,11 +99,9 @@ if (app.Environment.IsDevelopment())
 
 
 #endregion
-
 #region Home
 app.MapGet("/", () => Results.Json(new Home())).AllowAnonymous().WithTags("Home");
 #endregion
-
 #region Administradores
 // MÉTODO PARA GERAR TOKEN JWT
 string GeraTokenJwt(Administrador? administrador)
@@ -227,7 +224,6 @@ app.MapPost("/administradores",
 .RequireAuthorization(new AuthorizeAttribute { Roles = "Adm" })
 .WithTags("Administradores");
 #endregion
-
 #region Veiculos
 ErrosDeValidacao ValidaDTO(VeiculoDTO veiculoDTO)
 {
@@ -307,7 +303,6 @@ app.MapDelete("/veiculos/{id}", ([FromRoute] int id, IVeiculoServico veiculoServ
 }).RequireAuthorization(new AuthorizeAttribute { Roles = "Adm"}).WithTags("Veiculos");
 
 #endregion
-
 #region App
 
 app.UseAuthentication();
